@@ -1,1 +1,16 @@
-
+<?xml version="1.0" encording="utf-8" ?>
+	<table>
+    <title>Translation problems</title>
+    <problem>The texts of errors on the form “Zvorotny zvorotnyy yazok” on the page https://itawards.ua/ua in the UA version of the site were not translated into Ukrainian</problem>
+    <evidence>Video, Screenshot</evidence>
+    <stepstoplay>
+      Open page https://itawards.ua/ua
+      Scroll to the form “Zvorotny zvon’yazok
+      Click on the “Send” button
+      Pay attention to the language of the errors that appeared under the form fields
+    </stepstoplay>
+    <actualresult>Errors are displayed in English</actualresult>
+    <expectedresult>Errors are displayed in Ukrainian</expectedresult>
+    <seriousness>S1 (minor)</seriousness>
+    <table>
+      
